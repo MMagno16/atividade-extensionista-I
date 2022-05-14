@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap");
+
+* {
+  font-family: "Rajdhani", sans-serif;
+}
+
+.navbar{
+    background-color: #68A7AD;
+}
+
+.livros{
+    background-color: white;
+    color: #005555;
+    text-decoration: none;
+    
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 20px;
+
+}
+
+.roupasebrinquedos{
+    background-color: white;
+    color: #005555;
+
+}
+.esperança{
+    background-color: white;
+    color: #005555;
+}
+.bg-footer{
+    background-color: #68A7AD;
+    color: black;
+}
+
